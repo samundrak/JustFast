@@ -1,0 +1,49 @@
+%%Excelsior JET v10.5 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-cryptseed=cNc3TC0qAZMmxyJYDc78n98Z5bEQXhJvjC8tx6VDMVDSFcXCIyiUKGBHlehN2swN
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=justfast/APK
+-outputdir=.
+-outputname=JustFast
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=../../../Desktop/justfast.png
+-stacklimit=900000
+-startupprofile=./Untitled.startup
+-versioninfocompanyname=Being Programmer
+-versioninfofiledescription=JustFast
+-versioninfolegalcopyright=Copyright \x00a9 2015 Being Programmer
+-versioninfoproductname=JustFast
+-versioninfoproductversion=1.0.0.0
+
+
+
+
+!classpathentry ./dist/JustFast.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+
+!module ../../../Desktop/justfast.ico
+!module ./Untitled.usg
+

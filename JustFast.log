@@ -1,0 +1,38 @@
+Excelsior JET v10.5 Evaluation Version (c) Excelsior 1997,2013
+Active Java SE Version 1.7.0_55 (profile 5)
+************************  JET v10.5 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "C:\Users\Acer\Documents\web\JustFast\JustFast.prj"
+Reading dist/JustFast.jar ...  16 classes
+
+Total compilable classes within classpath entries: 16
+
+------------------------  Parsing Stage  ---------------------------------------
+
+New "C:/Users/Acer/Documents/web/JustFast/JustFast_jetpdb/nums.clnums" is generated
+#project is up to date
+Preparing resources for packing ...
+Processing dist/JustFast.jar ...
+Resources were successfully prepared for packing.
+
+XDS Link Version 2.24.14 Copyright (c) Excelsior 1995-2014.
+Error (17): Illegal file format - ..\..\..\Desktop\justfast.ico
+1 error, no warnings
+Fault 439 -  external command fault 255:
+xlink @"C:/Users/Acer/Documents/web/JustFast/JustFast_jetpdb/JustFast.rsp"
+external command fault 255:
+xlink @"C:/Users/Acer/Documents/web/JustFast/JustFast_jetpdb/JustFast.rsp"
+
+Link time 0:00.29
+
+Total compilation time 0:03.33
+Startup Accelerator Helper Version 1.2 Copyright (c) Excelsior 2010-2015.
+
+ERROR: "C:\Users\Acer\Documents\web\JustFast\JustFast.exe" doesn't exist.
+Fault 439 -  external command fault 1:
+xstartup --work-dir="." --shutdown-timeout=20 "JustFast.exe" 
+external command fault 1:
+xstartup --work-dir="." --shutdown-timeout=20 "JustFast.exe" 
+

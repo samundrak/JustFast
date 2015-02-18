@@ -1,0 +1,42 @@
+
+-jetcomponent=10.50
+-jetedition=Evaluation
+-vcode=5
+-sys=W
+-nosmart
+-zimer=236
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:dist/JustFast.jar
+-config=JETProfile:5
+-config=JETProfileName:1.7.0_55
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/Acer/Documents/web/JustFast/Untitled_jetpdb/JustFast.efs
+-config=MainClass:justfast/APK
+-config=VersionInfo:jet-1050-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.7.0_55; JET update level: 0; CPU architecture: x86
+-name=JustFast.exe
+C:\Users\Acer\Documents\web\JustFast\Untitled_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+
+-config=HaveSplash:1
+-config=SplashCloseOnTitle:
+-config=SplashCloseOnAWTWindow:1
+-LinkFileAsRData=LINK_SplashPicture:../../../Desktop/justfast.png
+
+
+C:\jet10.5-eval-x86\lib\x86\startup-exe-splash.zip
+
+-config=PackagingOptions:dlls=java;net;t2k;nio;awt;fontmanager;zip component_microversions=BC-0
+-ReadLinkInfo=C:\Users\Acer\Documents\web\JustFast\Untitled_jetpdb\reorder.li
+C:\Users\Acer\Documents\web\JustFast\Untitled_jetpdb\obj.zip
+-Config=RTComponent:XKRN10505.dll
+C:\jet10.5-eval-x86\lib\x86\startup-rtlink.zip
+C:\jet10.5-eval-x86\lib\x86\import32.lib
+..\..\..\Desktop\justfast.ico
+C:\jet10.5-eval-x86\lib\x86\app.res
+-StrictLinkToDLL
+
